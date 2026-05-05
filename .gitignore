@@ -1,0 +1,7 @@
+# fichiers compilés
+*.o
+*.exe
+
+# fichiers temporaires
+*~
+*.tmp
