@@ -4,4 +4,7 @@
 
 # fichiers temporaires
 *~
-*.tmp
+*.tmp*.o
+*.exe
+*~
+tmp/
