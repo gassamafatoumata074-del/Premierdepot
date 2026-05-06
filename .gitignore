@@ -8,3 +8,6 @@
 *.exe
 *~
 tmp/
+Le fichier .gitignore permet d’ignorer certains fichiers comme les fichiers compilés (.o), les exécutables (.exe) et les fichiers temporaires.
+
+Cela simplifie l’ajout de nouveaux fichiers car Git ignore automatiquement les fichiers inutiles. On n’a plus besoin de vérifier manuellement avec git add quels fichiers doivent être ajoutés.
